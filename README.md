@@ -4,6 +4,10 @@
 
 ## The design
 
+![Alt](image/topology.png)
+
+## Shortcut
+
 [Core1](#core1) - [Core2](#core2) - [Dist1](#dist1) - [Dist2](#dist2) - [Access1](#access1) - [Access2](#access2) - [Verify](#verify)
 
 ## mikrotik router
